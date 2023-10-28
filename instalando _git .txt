@@ -1,0 +1,6 @@
+- instalar no git for windows 
+	- entrar no prompt e verificar se o git foi instalado -> git 
+	- configurar o git -> git config --global user.name "Alexandrehac"
+	-> git config --global user.email "porto@alunos.utfpr.edu.br"
+	- faça esse comando para ver se deu certo o user -> git config --list
+ 
